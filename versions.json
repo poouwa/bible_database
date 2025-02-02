@@ -1,0 +1,44 @@
+{
+  "versions": [
+    {
+      "name": "መጽሐፍ ቅዱስ",
+      "abbreviation": "amh",
+      "filename": "bible_amh.db",
+      "version": 1,
+      "size": 1179648,
+      "checksum": "0a06767f4b0f5e5b62b9148eb8acb6a43b85973880799083891f472a58182186"
+    },
+    {
+      "name": "ክታበ ቁልቁሉ",
+      "abbreviation": "obe",
+      "filename": "bible_obe.db",
+      "version": 1,
+      "size": 6918144,
+      "checksum": "ae32198ad674b5641060b3aa6ad695c4317c4e45e85370b36c82c3c7a11e27ba"
+    },
+    {
+      "name": "Kitaaba, Qulqulluu",
+      "abbreviation": "obl",
+      "filename": "bible_obl.db",
+      "version": 1,
+      "size": 5529600,
+      "checksum": "e2a71637745122e11fac3deeace071b72ce6e4b3f5d5e50b0ee303ae1b87a35d"
+    },
+    {
+      "name": "Kitaabka Quduuska",
+      "abbreviation": "som",
+      "filename": "bible_som.db",
+      "version": 1,
+      "size": 966656,
+      "checksum": "a5ba1a4e3836bbed27ff2659cfb4010ebd0b6b1aacd4859b120d37462fc39678"
+    },
+    {
+      "name": "World English Bible",
+      "abbreviation": "web",
+      "filename": "bible_web.db",
+      "version": 1,
+      "size": 4349952,
+      "checksum": "20ce3da31a4c5e24dc62b4f028df2109c3a61cf6529f544592fcb65d5eed1762"
+    }
+  ]
+}
